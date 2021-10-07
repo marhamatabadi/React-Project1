@@ -10,6 +10,6 @@ const App = () => {
            <Header/>
            <News/>
         </React.Fragment>
-    )
+    ) 
 }
 ReactDOM.render(<App />, document.getElementById('root'))
